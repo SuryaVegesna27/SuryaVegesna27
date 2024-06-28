@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuryaVegesna27
-- 👀 I’m currently studying Masters in Data Science and Analytics.
+- 👀 ALWAYS learning, with core interests in data science, machine learning, and cloud computing. Keen believer of the "growth mindset", always honing and upgrading my machine learning skills. I love researching data science use cases in various domains of society and solving challenging business problems using machine learning techniques. I’m well-versed with topics in time series analysis, predictions, and forecasting using various machine learning algorithms.Currently studying Masters in Data Science and Analytics.
 - 🌱 My aim is to decode data science for the real world in most simple words. 
 - 📫 Reach me on Linkedin - www.linkedin.com/in/suryavegesna27
 
