@@ -4,3 +4,10 @@
 - 📫 Reach me on Linkedin - www.linkedin.com/in/suryavegesna27
 
 
+## Skills
+
+- **Languages**: Python, Java, JavaScript, SQL
+- **Frameworks**: Spring Boot, React, Node.js
+- **Data Science**: Machine Learning, Deep Learning, Data Analysis
+- **Tools**: Git, Docker, Kubernetes, Apache Airflow, Snowflake
+- **Cloud**: AWS, Azure
