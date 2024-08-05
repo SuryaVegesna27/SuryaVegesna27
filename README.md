@@ -6,8 +6,7 @@
 
 ## Skills
 
-- **Languages**: Python, Java, JavaScript, SQL
-- **Frameworks**: Spring Boot, React, Node.js
+- **Languages**: Python, R, SQL
 - **Data Science**: Machine Learning, Deep Learning, Data Analysis
-- **Tools**: Git, Docker, Kubernetes, Apache Airflow, Snowflake
+- **Tools**: Git, Docker, Kubernetes, MySQL, Snowflake, Tensor Flow, Pytorch, Tableau,PowerBi
 - **Cloud**: AWS, Azure
