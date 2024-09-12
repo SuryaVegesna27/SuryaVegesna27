@@ -1,7 +1,7 @@
 Hi, I'm Surya Vegesna 👋
 👨‍💻 Data Science Enthusiast | 🎓 Master’s Student | Machine Learning Explorer 🧠
 
-About Me
+**About Me:**
 
 I've always been fascinated by the stories data can tell. Our world has undergone a dramatic transformation in just the last century, evolving from agrarian societies to bustling metropolises. This rapid advancement, fueled by industrialization and urbanization, has created an unprecedented wealth of data. As we enter the age of AI, the ability to harness and interpret this data becomes increasingly crucial.
 
