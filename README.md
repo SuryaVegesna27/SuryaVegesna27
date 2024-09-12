@@ -2,7 +2,10 @@ Hi, I'm Surya Vegesna 👋
 👨‍💻 Data Science Enthusiast | 🎓 Master’s Student | Machine Learning Explorer 🧠
 
 About Me
-I’ve always been fascinated by the stories data can tell. My curiosity drives me to explore patterns and trends, while my attention to detail ensures that no insight is overlooked. As a data science graduate student, I focus on leveraging machine learning and cloud technologies to solve complex business challenges. I believe that the key to unlocking impactful solutions lies in understanding the smallest details that shape the bigger picture.
+
+I've always been fascinated by the stories data can tell. Our world has undergone a dramatic transformation in just the last century, evolving from agrarian societies to bustling metropolises. This rapid advancement, fueled by industrialization and urbanization, has created an unprecedented wealth of data. As we enter the age of AI, the ability to harness and interpret this data becomes increasingly crucial.
+
+My curiosity drives me to explore the patterns and trends hidden within data, while my attention to detail ensures that no insight is overlooked. As a data science enthusiast, I focus on leveraging machine learning and cloud technologies to solve complex business challenges. I believe that by understanding the smallest details, we can unlock impactful solutions that shape a better future.
 
 **Recent Projects I Built**
 
