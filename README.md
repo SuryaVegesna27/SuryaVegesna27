@@ -26,7 +26,7 @@ When I’m not immersed in data, I love playing cricket and badminton, **Capturi
 ### Skills:  
 
 #### Languages & Databases:  
-![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-blue) ![SQL](https://img.shields.io/badge/-SQL-lightgrey) ![MySQL](https://img.shields.io/badge/-MySQL-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue)  
+![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-blue)  ![MySQL](https://img.shields.io/badge/-MySQL-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue)  
 
 #### Frameworks & Tools:  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange) ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue)  
@@ -39,5 +39,3 @@ When I’m not immersed in data, I love playing cricket and badminton, **Capturi
 
 
 
-**Connect with Me:**
-📫 LinkedIn
