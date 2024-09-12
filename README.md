@@ -1,4 +1,5 @@
-Hi, I'm Surya Vegesna 👋
+**Hi, I'm Surya Vegesna 👋**
+
 👨‍💻 Data Science Enthusiast | 🎓 Master’s Student | Machine Learning Explorer 🧠
 
 **About Me:**
