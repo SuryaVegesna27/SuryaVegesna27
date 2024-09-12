@@ -13,7 +13,8 @@ I believe in learning through action, so I’ve created several impactful projec
 [Sentiment Analysis](https://github.com/SuryaVegesna27/Sentiment-Analysis): Developed a system to analyze social media sentiment using NLP techniques, providing valuable market insights.
 
 
-Outside of Work
+**Outside of Work:**
+
 When I’m not immersed in data, I love playing cricket and badminton, **Capturing real-world scenes through my lens as a photographer**, or cooking Indian, Italian, and Middle Eastern dishes.
 
 Skills:
