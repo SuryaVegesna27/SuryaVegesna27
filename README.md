@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @SuryaVegesna27
-- 👀 ALWAYS learning, with core interests in data science, machine learning, and cloud computing. Keen believer of the "growth mindset", always honing and upgrading my machine learning skills. I love researching data science use cases in various domains of society and solving challenging business problems using machine learning techniques. I’m well-versed with topics in time series analysis, predictions, and forecasting using various machine learning algorithms.Currently studying Masters in Data Science and Analytics.
-- 🌱 My aim is to decode data science for the real world in most simple words. 
-- 📫 Reach me on Linkedin - www.linkedin.com/in/suryavegesna27
+Hi, I'm Surya Vegesna 👋
+👨‍💻 Data Science Enthusiast | 🎓 Master’s Student | Machine Learning Explorer 🧠
 
+About Me
+I’ve always been fascinated by the stories data can tell. My curiosity drives me to explore patterns and trends, while my attention to detail ensures that no insight is overlooked. As a data science graduate student, I focus on leveraging machine learning and cloud technologies to solve complex business challenges. I believe that the key to unlocking impactful solutions lies in understanding the smallest details that shape the bigger picture.
 
-## Skills
+Recent Projects I Built
+I believe in learning through action, so I’ve created several impactful projects:
 
-- **Languages**: Python, R, SQL
-- **Data Science**: Machine Learning, Deep Learning, Data Analysis
-- **Tools**: Git, Docker, Kubernetes, MySQL, Snowflake, Tensor Flow, Pytorch, Tableau,PowerBi
-- **Cloud**: AWS, Azure
+Churn Prediction: Built a predictive model to identify customers at risk of leaving, helping businesses take proactive actions.
+Sentiment Analysis: Developed a system to analyze social media sentiment using NLP techniques, providing valuable market insights.
+Outside of Work
+When I’m not immersed in data, I love playing cricket and badminton, Capturing real-world scenes through my lens as a photographer, or cooking Indian, Italian, and Middle Eastern dishes.
+
+Skills:
+Languages & Databases:
+
+Python, R, SQL, MySQL, MongoDB, BigQuery
+Frameworks & Tools:
+
+TensorFlow, PyTorch, Scikit-learn, Git, Docker, Kubernetes, Snowflake
+Cloud:
+
+AWS, Azure
+Connect with Me:
+📫 LinkedIn
