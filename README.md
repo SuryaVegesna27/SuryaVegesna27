@@ -34,5 +34,7 @@ TensorFlow, PyTorch, Scikit-learn, Git, Docker, Kubernetes, Snowflake
 Cloud:
 
 AWS, Azure
-Connect with Me:
+
+
+**Connect with Me:**
 📫 LinkedIn
