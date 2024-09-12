@@ -14,7 +14,7 @@ I believe in learning through action, so I’ve created several impactful projec
 
 [Churn Prediction](https://github.com/SuryaVegesna27/Machine-Learning) : Built a predictive model to identify customers at risk of leaving, helping businesses take proactive actions.
 
-[Sentiment Analysis](https://github.com/SuryaVegesna27/Sentiment-Analysis): Developed a system to analyze social media sentiment using NLP techniques, providing valuable market insights.
+[Sentiment Analysis](https://github.com/SuryaVegesna27/Sentiment-Analysis): Developed a system to analyze Airline sentiment using NLP techniques, providing valuable market insights.
 
 
 **Outside of Work:**
