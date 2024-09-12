@@ -17,13 +17,16 @@ I believe in learning through action, so I’ve created several impactful projec
 
 When I’m not immersed in data, I love playing cricket and badminton, **Capturing real-world scenes through my lens as a photographer**, or cooking Indian, Italian, and Middle Eastern dishes.
 
-Skills:
+**Skills:**
+
 Languages & Databases:
 
 Python, R, SQL, MySQL, MongoDB, BigQuery
+
 Frameworks & Tools:
 
 TensorFlow, PyTorch, Scikit-learn, Git, Docker, Kubernetes, Snowflake
+
 Cloud:
 
 AWS, Azure
