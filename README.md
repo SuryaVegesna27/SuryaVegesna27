@@ -39,4 +39,8 @@ When I’m not immersed in data, I love playing cricket and badminton, **Capturi
 
 
 
+### Connect with Me: 📫  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/suryavegesna27)  
+📧 suryavegesna27@gmail.com
+
 
