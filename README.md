@@ -21,19 +21,22 @@ I believe in learning through action, so I’ve created several impactful projec
 
 When I’m not immersed in data, I love playing cricket and badminton, **Capturing real-world scenes through my lens as a photographer**, or cooking Indian, Italian, and Middle Eastern dishes.
 
-**Skills:**
 
-Languages & Databases:
 
-Python, R, SQL, MySQL, MongoDB, BigQuery
+### Skills:  
 
-Frameworks & Tools:
+#### Languages & Databases:  
+![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-blue) ![SQL](https://img.shields.io/badge/-SQL-lightgrey) ![MySQL](https://img.shields.io/badge/-MySQL-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue)  
 
-TensorFlow, PyTorch, Scikit-learn, Git, Docker, Kubernetes, Snowflake
+#### Frameworks & Tools:  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange) ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue)  
 
-Cloud:
+#### Cloud:  
+![AWS](https://img.shields.io/badge/-AWS-orange) ![Azure](https://img.shields.io/badge/-Azure-lightblue)  
 
-AWS, Azure
+### Connect with Me: 📫  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/suryavegesna27)
+
 
 
 **Connect with Me:**
