@@ -4,8 +4,7 @@
 
 **About Me:**
 
-I've always been fascinated by the stories data can tell. Our world has undergone a dramatic transformation in just the last century, evolving from agrarian societies to bustling metropolises. This rapid advancement, fueled by industrialization and urbanization, has created an unprecedented wealth of data. As we enter the age of AI, the ability to harness and interpret this data becomes increasingly crucial.
-
+When I was a child, I used to watch cricket and football, mesmerized by the data these games generated. I couldn't understand how all that information was managed, but I loved those scoreboards; they gave me a thrill. Fast forward to today, I handle large datasets on a daily basis. Now, I truly grasp how these numbers and metrics are critical in every business, transforming raw data into actionable insights."
 My curiosity drives me to explore the patterns and trends hidden within data, while my attention to detail ensures that no insight is overlooked. As a data science enthusiast, I focus on leveraging machine learning and cloud technologies to solve complex business challenges. I believe that by understanding the smallest details, we can unlock impactful solutions that shape a better future.
 
 **Recent Projects I Built**
