@@ -12,10 +12,11 @@ My curiosity drives me to explore the patterns and trends hidden within data, wh
 
 I believe in learning through action, so I’ve created several impactful projects:
 
-[Churn Prediction](https://github.com/SuryaVegesna27/Machine-Learning) : Built a predictive model to identify customers at risk of leaving, helping businesses take proactive actions.
-
 [Yelp Review Sentiment Analysis](https://github.com/SuryaVegesna27/YelpReview_Sentiment-Analysis): Developed a sentiment analysis system to classify Yelp restaurant reviews using natural language processing (NLP) techniques. The project focuses on understanding customer sentiment and providing actionable insights for restaurant businesses based on review data.
 
+Mini Scholar AI [https://github.com/SuryaVegesna27/Mini-Scholar-AI] : It is an AI-powered platform designed to simplify academic research by enabling efficient text extraction, semantic search, and summarization of research papers. It leverages state-of-the-art NLP technologies like Sentence Transformers, ChromaDB, and ChatGPT API to deliver contextual insights and enhance productivity.
+
+[Churn Prediction](https://github.com/SuryaVegesna27/Machine-Learning) : Built a predictive model to identify customers at risk of leaving, helping businesses take proactive actions.
 
 **Outside of Work:**
 
