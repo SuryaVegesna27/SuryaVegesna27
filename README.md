@@ -29,8 +29,9 @@ When I’m not immersed in data, I love playing cricket and badminton, **Capturi
 #### Languages & Databases:  
 ![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-blue) ![MySQL](https://img.shields.io/badge/-MySQL-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue)  
 
-#### Frameworks & Tools:  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange) ![Pandas](https://img.shields.io/badge/-Pandas-black) ![PySpark](https://img.shields.io/badge/-PySpark-orange) ![Tableau](https://img.shields.io/badge/-Tableau-lightblue) ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue)  
+#### **Frameworks & Tools**:
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange) ![Pandas](https://img.shields.io/badge/-Pandas-black) ![PySpark](https://img.shields.io/badge/-PySpark-orange)
+- ![Tableau](https://img.shields.io/badge/-Tableau-lightblue) ![Power BI](https://img.shields.io/badge/-PowerBI-yellow) ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue) ![NLP](https://img.shields.io/badge/-NLP-purple)
 
 #### Cloud:  
 ![AWS](https://img.shields.io/badge/-AWS-orange) ![Azure](https://img.shields.io/badge/-Azure-lightblue)  
