@@ -33,8 +33,8 @@ When I’m not immersed in data, I love playing cricket and badminton, **Capturi
 - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange) ![Pandas](https://img.shields.io/badge/-Pandas-black) ![PySpark](https://img.shields.io/badge/-PySpark-orange)
 - ![Tableau](https://img.shields.io/badge/-Tableau-lightblue) ![Power BI](https://img.shields.io/badge/-PowerBI-yellow) ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue) ![NLP](https://img.shields.io/badge/-NLP-purple)
 
-#### Cloud:  
-![AWS](https://img.shields.io/badge/-AWS-orange) ![Azure](https://img.shields.io/badge/-Azure-lightblue)  
+#### **Cloud**:
+- ![AWS](https://img.shields.io/badge/-AWS-orange) ![Azure](https://img.shields.io/badge/-Azure-lightblue) ![Databricks](https://img.shields.io/badge/-Databricks-red)
 
 ### Connect with Me: 📫  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/suryavegesna27)
