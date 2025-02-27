@@ -1,6 +1,6 @@
 **Hi, I'm Surya Vegesna 👋**
 
-👨‍💻 Data Science Enthusiast | 🎓 Master’s Student | Machine Learning Explorer 🧠
+👨‍💻 Data Science Enthusiast | 🎓 Data Science Grad from GSU | Machine Learning Explorer 🧠
 
 **About Me:**
 
