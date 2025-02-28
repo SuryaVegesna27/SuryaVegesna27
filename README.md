@@ -20,7 +20,7 @@ I believe in learning through action, so I’ve created several impactful projec
 
 **Outside of Work:**
 
-When I’m not immersed in data, I love playing cricket and badminton, **Capturing real-world scenes through my lens as a photographer**, or cooking Indian, Italian, and Middle Eastern dishes.
+You’ll find me on the cricket field, playing badminton, capturing real-world moments through photography, or experimenting with new recipes in the kitchen
 
 
 
