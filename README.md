@@ -10,13 +10,19 @@ My curiosity drives me to explore the patterns and trends hidden within data, wh
 
 **Recent Projects I Built**
 
-I believe in learning through action, so I’ve created several impactful projects:
 
-[Yelp Review Sentiment Analysis](https://github.com/SuryaVegesna27/YelpReview_Sentiment-Analysis): Developed a sentiment analysis system using BERT to classify Yelp restaurant reviews using natural language processing (NLP) techniques. The project focuses on understanding customer sentiment and providing actionable insights for restaurant businesses based on review data.
+## [Mini Scholar AI](https://github.com/SuryaVegesna27/Mini-Scholar-AI)  
+Developed an **AI-powered research assistant** for academic papers, enabling **efficient text extraction, semantic search, and summarization**. Utilized **Sentence Transformers, ChromaDB, and ChatGPT API** to enhance productivity and streamline research workflows.  
 
-[Mini Scholar AI](https://github.com/SuryaVegesna27/Mini-Scholar-AI) : It is an AI-powered platform designed to simplify academic research by enabling efficient text extraction, semantic search, and summarization of research papers. It leverages state-of-the-art NLP technologies like Sentence Transformers, ChromaDB, and ChatGPT API to deliver contextual insights and enhance productivity.
+## [Airline Sentiment Analysis](https://github.com/SuryaVegesna27/Airline-Customers-Sentiment-Analysis-using-KeyBert-and-Llama2)  
+Built a **customer sentiment analysis model** using **Llama2** and **KeyBERT** to extract insights from airline reviews. The system helps airlines understand passenger sentiment and improve customer service based on NLP-driven insights.  
 
-[Optimizing Walmart's Sales Strategy](https://github.com/SuryaVegesna27/Optimizing-Walmart-Sales-Strategy-with-Predictive-Analytics) : Developed predictive models including Random Forest Regressor and Exponential Smoothing to forecast Walmart's sales, enabling effective stock management, revenue calculation, and investment decisions.
+## [Image Classification using Distributed Learning](https://github.com/SuryaVegesna27/Image-Classification-using-Distributed-Learning)  
+Implemented an **image classification system** utilizing **distributed deep learning** techniques for scalability and efficiency. Leveraged **PyTorch and Horovod** to accelerate model training across multiple GPUs.  
+
+## [Credit Card Fraud Detection](https://github.com/SuryaVegesna27/Credit_Card_Fraud_Detection_ImbalancedData)  
+Developed a **fraud detection model** for imbalanced credit card transaction data using **SMOTE, Random Forest, and XGBoost** to improve fraud detection accuracy. Enhanced model interpretability with SHAP value analysis.  
+
 
 **Outside of Work:**
 
