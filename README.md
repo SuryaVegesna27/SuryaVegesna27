@@ -1,12 +1,19 @@
-**Hi, I'm Surya Vegesna 👋**
+# Hi, I'm Surya Vegesna 👋
 
-👨‍💻 Data Science Enthusiast | 🎓 Data Science Grad from GSU | Machine Learning Explorer 🧠
+### 🛠️ Data Engineer | 🏗️ AI Infrastructure | 📊 Data Science MS @ GSU
 
 **About Me:**
 
-When I was a child, I used to watch cricket and football, mesmerized by the data these games generated. I couldn't understand how all that information was managed, but I loved those scoreboards; they gave me a thrill. Fast forward to today, I handle large datasets on a daily basis. Now, I truly grasp how these numbers and metrics are critical in every business, transforming raw data into actionable insights.
+[cite_start]I am a **Data Engineer** currently working at **Medlytix**, where I focus on turning fragmented data into trusted, production-ready pipelines[cite: 39, 40, 23].
 
-My curiosity drives me to explore the patterns and trends hidden within data, while my attention to detail ensures that no insight is overlooked. As a data science enthusiast, I focus on leveraging machine learning and cloud technologies to solve complex business challenges. I believe that by understanding the smallest details, we can unlock impactful solutions that shape a better future.
+[cite_start]My philosophy is simple: **"Most data problems don't fail because of models, they fail because the data foundation isn't built to scale."** [cite: 22]
+
+[cite_start]Previously, I worked as a Research Data Scientist building Marketing Mix Models and NLP solutions[cite: 46, 49, 55]. Today, I bridge the gap between complex data infrastructure and actionable AI. [cite_start]I build systems that are production-ready, maintainable, and aligned with real business needs[cite: 26].
+
+**What I'm Working On:**
+* [cite_start]**Scalable ETL:** Building production-grade pipelines using **Python, SQL, and PySpark** to ingest and transform high-volume data[cite: 42].
+* [cite_start]**AI Tooling:** Developing internal AI-assisted agents using **retrieval-based architectures (RAG)** to improve developer productivity[cite: 43].
+* [cite_start]**Cloud Architecture:** Designing reliable workflows on **Azure** and **AWS** for analytics and ML use cases[cite: 19, 29].
 
 **Recent Projects I Built**
 
