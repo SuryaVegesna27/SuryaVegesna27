@@ -35,11 +35,10 @@ You’ll find me on the cricket field, playing badminton, capturing real-world m
 
 ### Certifications
 
+- [Databricks Data Engineer Associate](https://credentials.databricks.com/d732c7fc-32cc-491b-85c5-0d2ad9057d20#acc.DnfHRkta)
 - [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/suryavegesna-1553/credentials/92db0747e3cd0163?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Oracle GenAI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0FBFC5E826024347390EF510C9ECDA91DAD0B459E6FF42F2FBAC7C4ECCCE7972)
 - [Cisco Data Analytics Professional](https://www.credly.com/badges/6af17a3e-3516-4736-9c3c-1603bc742e68/linked_in_profile)
-- [Databricks Data Engineer Associate](https://credentials.databricks.com/d732c7fc-32cc-491b-85c5-0d2ad9057d20#acc.DnfHRkta)
-
 ---
 
 ### Skills
