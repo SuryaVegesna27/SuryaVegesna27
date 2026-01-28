@@ -1,19 +1,17 @@
-# Hi, I'm Surya Vegesna 👋
-
-### 🛠️ Data Engineer | 🏗️ AI Infrastructure | 📊 Data Science MS @ GSU
+### 🛠️ Data Engineer | 🏗️ AI Infrastructure | 📊 MS in Data Science and Analytics @ GSU
 
 **About Me:**
 
-[cite_start]I am a **Data Engineer** currently working at **Medlytix**, where I focus on turning fragmented data into trusted, production-ready pipelines[cite: 39, 40, 23].
+I am a **Data Engineer** currently working at **Medlytix**, where I focus on turning fragmented data into trusted, production-ready pipelines.
 
-[cite_start]My philosophy is simple: **"Most data problems don't fail because of models, they fail because the data foundation isn't built to scale."** [cite: 22]
+My philosophy is simple: **"Most data problems don't fail because of models, they fail because the data foundation isn't built to scale."**
 
-[cite_start]Previously, I worked as a Research Data Scientist building Marketing Mix Models and NLP solutions[cite: 46, 49, 55]. Today, I bridge the gap between complex data infrastructure and actionable AI. [cite_start]I build systems that are production-ready, maintainable, and aligned with real business needs[cite: 26].
+Previously, I worked as a Research Data Scientist building Marketing Mix Models and NLP solutions. Today, I bridge the gap between complex data infrastructure and actionable AI. I build systems that are production-ready, maintainable, and aligned with real business needs.
 
 **What I'm Working On:**
-* [cite_start]**Scalable ETL:** Building production-grade pipelines using **Python, SQL, and PySpark** to ingest and transform high-volume data[cite: 42].
-* [cite_start]**AI Tooling:** Developing internal AI-assisted agents using **retrieval-based architectures (RAG)** to improve developer productivity[cite: 43].
-* [cite_start]**Cloud Architecture:** Designing reliable workflows on **Azure** and **AWS** for analytics and ML use cases[cite: 19, 29].
+* **Scalable ETL:** Building production-grade pipelines using **Python, SQL, and PySpark** to ingest and transform high-volume data.
+* **AI Tooling:** Developing internal AI-assisted agents using **retrieval-based architectures (RAG)** to improve developer productivity.
+* **Cloud Architecture:** Designing reliable workflows on **Azure** and **AWS** for analytics and ML use cases.
 
 **Recent Projects I Built**
 
@@ -46,15 +44,15 @@ You’ll find me on the cricket field, playing badminton, capturing real-world m
 
 ### Skills
 
-#### Languages & Databases:  
-![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-blue) ![MySQL](https://img.shields.io/badge/-MySQL-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue)
+#### ⚙️ Data Engineering & Cloud
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
-#### Frameworks & Tools:
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-orange) ![Pandas](https://img.shields.io/badge/-Pandas-black) ![PySpark](https://img.shields.io/badge/-PySpark-orange)
-- ![Tableau](https://img.shields.io/badge/-Tableau-lightblue) ![Power BI](https://img.shields.io/badge/-PowerBI-yellow) ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue) ![NLP](https://img.shields.io/badge/-NLP-purple)
+#### 🧠 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-purple)
 
-#### Cloud:
-- ![AWS](https://img.shields.io/badge/-AWS-orange) ![Azure](https://img.shields.io/badge/-Azure-lightblue) ![Databricks](https://img.shields.io/badge/-Databricks-red)
+#### 📊 Tools & Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ---
 
