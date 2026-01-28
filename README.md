@@ -2,7 +2,7 @@
 
 **About Me:**
 
-I am a **Data Engineer** currently working at **Medlytix**, where I focus on turning fragmented data into trusted, production-ready pipelines.
+I am a **Data Engineer** currently working at **Medlytix**, where I focus on transforming fragmented raw data into scalable, production-ready infrastructure.
 
 My philosophy is simple: **"Most data problems don't fail because of models, they fail because the data foundation isn't built to scale."**
 
