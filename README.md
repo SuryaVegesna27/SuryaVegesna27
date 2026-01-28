@@ -11,7 +11,7 @@ Previously, I worked as a Research Data Scientist building Marketing Mix Models 
 **What I'm Working On:**
 * **Scalable ETL:** Building production-grade pipelines using **Python, SQL, and PySpark** to ingest and transform high-volume data.
 * **AI Tooling:** Developing internal AI-assisted agents using **retrieval-based architectures (RAG)** to improve developer productivity.
-* **Cloud Architecture:** Designing reliable workflows on **Azure** and **AWS** for analytics and ML use cases.
+* **Cloud Architecture:** Designing reliable workflows on **Azure**, **GCP** and **AWS** for analytics and ML use cases.
 
 **Recent Projects I Built**
 
