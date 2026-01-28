@@ -10,22 +10,22 @@ Previously, I worked as a Research Data Scientist building Marketing Mix Models 
 
 **What I'm Working On:**
 * **Scalable ETL:** Building production-grade pipelines using **Python, SQL, and PySpark** to ingest and transform high-volume data.
-* **AI Tooling:** Developing internal AI-assisted agents using **retrieval-based architectures (RAG)** to improve developer productivity.
+* **AI Tooling:** Developing internal AI-assisted agents using retrieval-based architectures (RAG) to improve developer productivity.
 * **Cloud Architecture:** Designing reliable workflows on **Azure**, **GCP** and **AWS** for analytics and ML use cases.
 
 **Recent Projects I Built**
 
 ## [Mini Scholar AI](https://github.com/SuryaVegesna27/Mini-Scholar-AI)  
-Developed an **AI-powered research assistant** for academic papers, enabling **efficient text extraction, semantic search, and summarization**. Utilized **Sentence Transformers, ChromaDB, and ChatGPT API** to enhance productivity and streamline research workflows.
+Developed an **AI-powered research assistant** for academic papers, enabling efficient text extraction, semantic search, and summarization. Utilized Sentence Transformers, ChromaDB, and ChatGPT API to enhance productivity and streamline research workflows.
 
 ## [Airline Sentiment Analysis](https://github.com/SuryaVegesna27/Airline-Customers-Sentiment-Analysis-using-KeyBert-and-Llama2)  
 Built a **customer sentiment analysis model** using **Llama2** and **KeyBERT** to extract insights from airline reviews. The system helps airlines understand passenger sentiment and improve customer service based on NLP-driven insights.
 
 ## [Image Classification using Distributed Learning](https://github.com/SuryaVegesna27/Image-Classification-using-Distributed-Learning)  
-Implemented an **image classification system** utilizing **distributed deep learning** techniques for scalability and efficiency. Leveraged **PyTorch and Horovod** to accelerate model training across multiple GPUs.
+Implemented an **image classification system** utilizing **distributed deep learning** techniques for scalability and efficiency. Leveraged PyTorch and Horovod to accelerate model training across multiple GPUs.
 
 ## [Credit Card Fraud Detection](https://github.com/SuryaVegesna27/Credit_Card_Fraud_Detection_ImbalancedData)  
-Developed a **fraud detection model** for imbalanced credit card transaction data using **SMOTE, Random Forest, and XGBoost** to improve fraud detection accuracy. Enhanced model interpretability with SHAP value analysis.
+Developed a **fraud detection model** for imbalanced credit card transaction data using SMOTE, Random Forest, and XGBoost to improve fraud detection accuracy. Enhanced model interpretability with SHAP value analysis.
 
 **Outside of Work:**
 
