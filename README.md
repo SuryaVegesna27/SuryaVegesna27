@@ -30,7 +30,7 @@ Developed a **fraud detection model** for imbalanced credit card transaction dat
 
 **Outside of Work:**
 
-You’ll find me on the cricket field, playing badminton, capturing real-world moments through photography, or experimenting with new recipes in the kitchen.
+Outside work, I enjoy cricket, badminton, photography, and experimenting in the kitchen.
 
 
 
