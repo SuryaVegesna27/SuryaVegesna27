@@ -5,7 +5,7 @@
 AI Data Engineer building scalable data platforms and applied-AI infrastructure
 
 
-Previously, I worked as a Research Data Scientist building Marketing Mix Models and NLP solutions. Today, I bridge the gap between complex data infrastructure and actionable AI. I build systems that are production-ready, maintainable, and aligned with real business needs.
+At **Medlytix**, I focus on scalable data infrastructure. Previously, I worked as a Research Data Scientist building Marketing Mix Models and NLP solutions. Today, I bridge the gap between complex data infrastructure and actionable AI. I build systems that are production-ready, maintainable, and aligned with real business needs.
 
 **What I'm Working On:**
 * **Scalable ETL:** Building production-grade pipelines using **Python, SQL, and PySpark** to ingest and transform high-volume data.
