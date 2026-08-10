@@ -2,7 +2,7 @@
 
 **About Me:**
 
-I am a **AI Data Engineer** currently working at **Medlytix**, where I focus on transforming fragmented raw data into scalable, production-ready infrastructure.
+AI Data Engineer building scalable data platforms and applied-AI infrastructure
 
 
 Previously, I worked as a Research Data Scientist building Marketing Mix Models and NLP solutions. Today, I bridge the gap between complex data infrastructure and actionable AI. I build systems that are production-ready, maintainable, and aligned with real business needs.
