@@ -16,8 +16,9 @@ At **Medlytix**, I focus on scalable data infrastructure. Previously, I worked a
 
 **Recent Projects I Built**
 
-## [Mini Scholar AI](https://github.com/SuryaVegesna27/Mini-Scholar-AI)  
-Developed an **AI-powered research assistant** for academic papers, enabling efficient text extraction, semantic search, and summarization. Utilized Sentence Transformers, ChromaDB, and ChatGPT API to enhance productivity and streamline research workflows.
+## [AI Data Analysis Agent](https://github.com/SuryaVegesna27/ai-data-analysis-agent)  
+Developed an AI data analysis Agent built using the Agno Agent framework and Openai's gpt-4o model. This agent helps users analyze their data - csv, excel files through natural language queries, powered by OpenAI's language models and DuckDB for efficient data processing - making data analysis accessible to users regardless of their SQL expertise.
+
 
 ## [Airline Sentiment Analysis](https://github.com/SuryaVegesna27/Airline-Customers-Sentiment-Analysis-using-KeyBert-and-Llama2)  
 Built a **customer sentiment analysis model** using **Llama2** and **KeyBERT** to extract insights from airline reviews. The system helps airlines understand passenger sentiment and improve customer service based on NLP-driven insights.
