@@ -1,4 +1,4 @@
-### 🛠️ AI Data Engineer | 🏗️ AI Infrastructure | 📊 MS in Data Science and Analytics @ GSU
+### 🛠️ AI Engineer | 🏗️ AI Infrastructure | 📊 MS in Data Science and Analytics @ GSU
 
 **About Me:**
 
