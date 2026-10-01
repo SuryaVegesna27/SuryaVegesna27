@@ -20,14 +20,16 @@ At **Medlytix**, I focus on scalable data infrastructure. Previously, I worked a
 Developed an AI data analysis Agent built using the Agno Agent framework and Openai's gpt-4o model. This agent helps users analyze their data - csv, excel files through natural language queries, powered by OpenAI's language models and DuckDB for efficient data processing - making data analysis accessible to users regardless of their SQL expertise.
 
 
+## [📠 RAG Agent with Database Routing](https://github.com/SuryaVegesna27/AI_Agents/tree/main/rag_database_routing)  
+Developed a Streamlit application that demonstrates an advanced implementation of RAG Agent with intelligent query routing. The system combines multiple specialized databases with smart fallback mechanisms to ensure reliable and accurate responses to user queries.
+
+
 ## [Airline Sentiment Analysis](https://github.com/SuryaVegesna27/Airline-Customers-Sentiment-Analysis-using-KeyBert-and-Llama2)  
 Built a **customer sentiment analysis model** using **Llama2** and **KeyBERT** to extract insights from airline reviews. The system helps airlines understand passenger sentiment and improve customer service based on NLP-driven insights.
 
 ## [Image Classification using Distributed Learning](https://github.com/SuryaVegesna27/Image-Classification-using-Distributed-Learning)  
 Implemented an **image classification system** utilizing **distributed deep learning** techniques for scalability and efficiency. Leveraged PyTorch and Horovod to accelerate model training across multiple GPUs.
 
-## [Credit Card Fraud Detection](https://github.com/SuryaVegesna27/Credit_Card_Fraud_Detection_ImbalancedData)  
-Developed a **fraud detection model** for imbalanced credit card transaction data using SMOTE, Random Forest, and XGBoost to improve fraud detection accuracy. Enhanced model interpretability with SHAP value analysis.
 
 **Outside of Work:**
 
